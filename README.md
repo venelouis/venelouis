@@ -1,8 +1,11 @@
-### Hi there 👋
+<p align="center"> 
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+## I am Venelouis 
 
-venelouis/venelouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
- <p align="center" >
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
  
 ## &#x1f4c8; My GitHub Stats
  
@@ -12,4 +15,5 @@ venelouis/venelouis** is a ✨ _special_ ✨ repository because its `README.md` 
 
 
 ### Connect with me:
-(https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg)](https://www.linkedin.com/in/venelouis//)
+<a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="100" ></a>
+/>
