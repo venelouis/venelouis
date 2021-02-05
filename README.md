@@ -1,4 +1,5 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+![Hello](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
 ## I'm [Venelouis](https://www.facebook.com/venelouistyagosantospalhano), a passionate Full Stack Web Developer 🚀
 ### <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="100" ></a>
 
