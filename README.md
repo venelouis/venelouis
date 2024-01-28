@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
 </div>
 <br>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"/>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 <br><br>
