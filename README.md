@@ -34,10 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+</div><br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
-<img alt="github-snake" src="github-snake.svg" />
+<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
@@ -56,9 +60,3 @@
 </details>
 
 <!-- comentários html veja também: https://profile-readme-generator.com/ -->
-
-###
-
-<img src="https://raw.githubusercontent.com/snake.svg" alt="Snake animation" />
-
-###
