@@ -53,7 +53,7 @@
   - GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   - Shields and icons <a href="https://profile-readme-generator.com">maurodesouza</a>
   - GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a>
-  - Snake by <a href="https://platane.github.io/snk/">platane</a>
+  - Snake by <a href="https://github.com/Platane/snk">Platane</a>
   
  
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
