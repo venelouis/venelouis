@@ -9,7 +9,6 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&column=4&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" /></a></p>
 
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/></a></p>
 
 <!-- comentários html:
