@@ -7,13 +7,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon)](https://git.io/streak-stats)
 
+<p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&column=4&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" /></a></p>
+
 ![Venelouis's GitHub stats](https://github-readme-stats.vercel.app/api?username=venelouis\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile) 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&column=4&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" /></a>
-
-
 
 
 <!-- <p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p> -->
-
-
