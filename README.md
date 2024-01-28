@@ -40,8 +40,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 
 <details align="left">
@@ -52,12 +50,16 @@
   - GitHub Stats and Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   - Shields and icons <a href="https://profile-readme-generator.com">maurodesouza</a>
+  - Activity Graph by <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710</a>
   - GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a>
-  - Snake by <a href="https://github.com/Platane/snk">Platane</a>
-  
- 
+
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
 
 </details>
 
-<!-- comentários html veja também: https://profile-readme-generator.com/ -->
+<!-- Veja também: 
+- https://profile-readme-generator.com/ 
+- https://rahuldkjain.github.io/gh-profile-readme-generator/
+- Snake by <a href="https://github.com/Platane/snk">Platane</a>
+<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
+-->
