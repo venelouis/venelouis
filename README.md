@@ -10,6 +10,19 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 
+<details align="left">
+  <summary></summary> 
+ 
+  - Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a><br>
+  - Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></br> 
+  - GitHub Stats and Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  - GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a>
+  - Top Languages vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+  <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
+
+</details>
 <!-- comentários html:
 ![Venelouis's GitHub stats](https://github-readme-stats.vercel.app/api?username=venelouis\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile) 
 
