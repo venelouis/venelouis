@@ -4,8 +4,7 @@
 ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 
@@ -18,3 +17,6 @@
 <p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p> 
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&column=4&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" /></a></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon)](https://git.io/streak-stats)
+
