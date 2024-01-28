@@ -11,6 +11,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/></a></p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
 <!-- comentários html:
 ![Venelouis's GitHub stats](https://github-readme-stats.vercel.app/api?username=venelouis\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile) 
 
