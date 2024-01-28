@@ -39,11 +39,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+<br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
+<br><br>
 
 <details align="left">
-  <summary></summary> 
+  <summary>References</summary> 
  
   - Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a><br>
   - Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></br> 
@@ -54,8 +55,6 @@
   - GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a>
 
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
-
-</details>
 
 <!-- Veja também: 
 - https://profile-readme-generator.com/ 
