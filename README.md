@@ -18,7 +18,6 @@
   - GitHub Stats and Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   - GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a>
-  - Top Languages vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
 
