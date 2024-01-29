@@ -8,6 +8,13 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
 
+<details align="center">
+  <summary>Contribution Graph (click here)</summary> <br>
+  <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
+</details>
+<br>
+
+## A little of what I know:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -62,15 +69,14 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
 </div>
-
 <br>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 
+## GitHub Trophies:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 <br><br>
 
 <details align="left">
-  <summary>References</summary> 
+  <summary>References for this README.md</summary> 
  
   - Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a><br>
   - Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></br> 
@@ -81,7 +87,7 @@
   - GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a>
 
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
-
+</details>
 <!-- Veja também: 
 - https://profile-readme-generator.com/ 
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
