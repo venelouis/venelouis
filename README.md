@@ -14,7 +14,7 @@
 </details>
 <br>
 
-## A little of what I know:
+<h2> A little of what I know: </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -84,7 +84,7 @@
   - GitHub Streaks by: <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a><br>
   - Shields and icons I got from: <a href="https://profile-readme-generator.com">maurodesouza readme-generator</a><br>
   - Activity Graph by: <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710</a><br>
-  - GitHub Trophies by: <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a><br>
+  - GitHub Trophies by: <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a><br><br><br>
 
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
 </details>
