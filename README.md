@@ -14,7 +14,7 @@
 </details>
 <br>
 
-<h2> A little of what I know: </h2>
+<h2> A little of what I know (and studying to know): </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
