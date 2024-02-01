@@ -60,6 +60,7 @@
   <img width="12" />
 </div>
 <br>
+
 ## My GitHub Trophies:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 
