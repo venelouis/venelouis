@@ -72,10 +72,9 @@
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </details>
 <br>
-<br>
 
 <details align="left">
-  <summary>References for this README.md</summary> 
+  <summary>References for this README.md</summary><br>
   <ul>
     <li>Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a></li>
     <li>Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></li>
