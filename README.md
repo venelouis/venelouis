@@ -4,6 +4,7 @@
 ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 ---
+<br>
 <h2> A little of what I know (and studying to know): </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
@@ -73,12 +74,10 @@
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </details>
 <br>
-
-<br><br>
+<br>
 
 <details align="left">
   <summary>References for this README.md</summary> 
- <br>
   - Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a><br>
   - Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></br> 
   - GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a><br>
