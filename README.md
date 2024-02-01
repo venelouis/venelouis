@@ -59,11 +59,11 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
 </div>
-<br>
 
 ## My GitHub Trophies:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
-<br><br>
+<br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
