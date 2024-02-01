@@ -4,16 +4,6 @@
 ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 ---
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
-
-<details align="center">
-  <summary>Contribution Graph (click here)</summary> <br>
-  <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
-</details>
-<br>
-
 <h2> A little of what I know (and studying to know): </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
@@ -71,8 +61,19 @@
 </div>
 <br>
 
-## GitHub Trophies:
+## My GitHub Trophies:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
+<br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
+
+<details align="center">
+  <summary>My Contribution Graph (click here)</summary> <br>
+  <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
+</details>
+<br>
+
 <br><br>
 
 <details align="left">
