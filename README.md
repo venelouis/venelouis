@@ -69,6 +69,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
 
  ![Snake animation](https://github.com/venelouis/venelouis/blob/main/snake.svg)
+  ![Snake animation](https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/snake.svg)
 
 <details align="left">
   <summary>My Contribution Graph (click here)</summary> <br>
