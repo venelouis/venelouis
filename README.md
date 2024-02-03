@@ -73,7 +73,7 @@
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </details>
 <br>
-
+<br>
 <details align="left">
   <summary>References for this README.md</summary><br>
   <ul>
