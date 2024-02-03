@@ -68,8 +68,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
 
-<p align="center"><img src="https://github.com/venelouis/venelouis/blob/main/snake.svg"/></p>
-
 <details align="left">
   <summary>My Contribution Graph (click here)</summary> <br>
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
@@ -94,4 +92,5 @@
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 - Snake by <a href="https://github.com/Platane/snk">Platane</a>
 <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
+<p align="center"><img src="https://github.com/venelouis/venelouis/blob/main/snake.svg"/></p>
 -->
