@@ -101,6 +101,7 @@
 
 <details align="left">
   <summary>My Contribution Graph (click here)</summary> <br>
+  <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelouis&theme=dracula"/></p>
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"/>
 </details>
 <br>
