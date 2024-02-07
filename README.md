@@ -100,7 +100,7 @@
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
 <br>
 <details align="left">
-  <summary>More Stats (click here)</summary> <br>
+  <summary>More Statistics (click here)</summary> <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> </p>
 </details>
 
