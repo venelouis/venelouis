@@ -95,9 +95,14 @@
 ## My GitHub Trophies and Stats
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=radical&utcOffset=-3" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=vision_friendly_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=highcontrast&utcOffset=-3" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> <img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
+<br>
+<details align="left">
+  <summary>More Stats (click here)</summary> <br>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> </p>
+</details>
 
 <details align="left">
   <summary>My Contribution Graph (click here)</summary> <br>
@@ -120,7 +125,6 @@
   </ul>
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
 </details>
-
 <!-- Veja também: 
 - https://profile-readme-generator.com/ 
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
