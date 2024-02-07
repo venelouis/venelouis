@@ -102,6 +102,7 @@
 <details align="left">
   <summary>More Statistics (click here)</summary> <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> </p>
+  <p align="right">*did you notice they are a little different?! lol </p>
 </details>
 
 <details align="left">
