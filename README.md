@@ -95,9 +95,9 @@
 ## My GitHub Trophies and Stats
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=vision_friendly_dark"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=highcontrast&utcOffset=-3" /></p>
-
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
 </p>
 <br>
