@@ -97,8 +97,8 @@
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
 </p>
 <br>
 
