@@ -4,7 +4,8 @@
 ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 --- 
-<h2> A little of what I know (and studying to know) </h2>
+<details open> 
+<summary><h2> A little of what I know (and studying to know) </h2></summary>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -91,6 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
 </div>
+</details>
 
 ## My GitHub Trophies and Stats
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
