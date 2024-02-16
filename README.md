@@ -4,8 +4,45 @@
 ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 --- 
+<details open>
+<summary> 🎨 Some ASCII Art 🖌️: </summary>
+  
+```
+Surfing the waves of the Digital Ocean..
+                       .        .           -     _
+                   .       .  ~   . ~  -  ~  . = .  ~
+               ~        ~  __.---~~_~~_~~_~~_~ ~ ~~_~~~
+             .    .     .-'  ` . ~_ = ~ _ =  . ~ .    ~
+                      .'  `. ~  -   =      ~  -  _ ~ `
+             ~    .  }` =  - _ ~  -  . ~  ` =  ~  _ . ~
+                   }`   . ~   =    ~  =  ~   -  ~    - _
+         .        }   ~ .__,~O     ` ~ _   ~  ^  ~  -
+                `}` - =    /#/`-'     -   ~   =   ~  _ ~
+           ~ .   }   ~ -   |^\   _ ~ _  - ~ -_  =  _
+                }`  _____ /_  /____ - ~ _   ~ _
+        jgs   }`   `~~~~~~~~~~~~~~~`_ = _ ~ -
+      _ _ _ }` `. ~ . - _ = ~. ~ = .   -   =
+
+The "Internet" consists of many computers, all over the world, connected to each other:
+
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
+These computers can then be used to communicate with each other in many different ways.
+Three of the most common ones are "The Web", "Email" and "Discussion groups" (also called "Newsgroups").
+```
+</details>
+
 <details open> 
-<summary><h2> A little of what I know (and studying to know) </h2></summary>
+<summary><h2> 📚 A little of what I know (and studying to know) 📝... </h2></summary>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -105,12 +142,12 @@
 <br>
 
 <details align="left">
-  <summary>🔥 Daily Streaks (click here)</summary> <br>
+  <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
   <p align="center"><img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
 </details>
 
 <details align="left">
-  <summary>📊 More Statistics (click here)</summary> <br>
+  <summary> 📊 More Statistics (click here)</summary> <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=10&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> </p>
   <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelouis&theme=chartreuse_dark"/></p>
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/>
@@ -119,7 +156,7 @@
 <br>
 <br>
 <details align="left">
-  <summary>References for this README.md</summary><br>
+  <summary> 📜 References for this README.md</summary><br>
   <ul>
     <li>Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a></li>
     <li>Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></li>
