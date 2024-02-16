@@ -139,7 +139,7 @@ These computers can then be used to communicate with each other in many differen
 Three of the most common ones are "The Web", "Email" and "Discussion groups" (also called "Newsgroups").
 ```
 </details>
-<details align="right">
+<details open>
   <summary> 📜 References for this README.md</summary><br>
   <ul>
     <li>Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a></li>
