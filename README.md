@@ -9,6 +9,7 @@
 <summary><h3> 📚 A little of what I know (and studying to know) 📝... </h3></summary>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="25" alt="debian logo"  />
@@ -17,6 +18,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo"  />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="25" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="25" alt="powershell logo"  />
   <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=md" height="25" alt="markdown logo"  />
