@@ -53,6 +53,9 @@
   <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="25" alt="rust logo"  />
+
+###
 </div>
 </details>
 
