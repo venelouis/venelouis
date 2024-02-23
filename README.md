@@ -35,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=flask" height="25" alt="flask logo"  />
   <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="25" alt="redis logo"  />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="25" alt="selenium logo"  />
