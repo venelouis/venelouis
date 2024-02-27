@@ -7,66 +7,65 @@
 --- 
 
 <details open> 
-<summary><h3> 📚 A little of what I know (and studying to know) 📝... </h3></summary>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="25" alt="debian logo"  />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo"  />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="25" alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=powershell" height="25" alt="powershell logo"  />
-  <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=md" height="25" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="25" alt="php logo"  />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="25" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=flask" height="25" alt="flask logo"  />
-  <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="25" alt="redis logo"  />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="25" alt="selenium logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
-  <img src="https://skillicons.dev/icons?i=heroku" height="25" alt="heroku logo"  />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="25" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="25" alt="apache logo"  />
-  <img src="https://cdn.simpleicons.org/ruby/CC342D" height="25" alt="ruby logo"  />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="25" alt="stackoverflow logo"  />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="25" alt="kaggle logo"  />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="25" alt="anaconda logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="tensorflow logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=gcp" height="25" alt="googlecloud logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
-  <img src="https://skillicons.dev/icons?i=rust" height="25" alt="rust logo"  />
-
-###
-</div>
+  <summary><h3> 📚 A little of what I know (and studying to know) 📝... </h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="25" alt="debian logo"  />
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
+    <img src="https://cdn.simpleicons.org/android/3DDC84" height="25" alt="android logo"  />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="25" alt="bash logo"  />
+    <img src="https://skillicons.dev/icons?i=powershell" height="25" alt="powershell logo"  />
+    <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=md" height="25" alt="markdown logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
+    <img src="https://cdn.simpleicons.org/php/777BB4" height="25" alt="php logo"  />
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="25" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+    <img src="https://skillicons.dev/icons?i=flask" height="25" alt="flask logo"  />
+    <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+    <img src="https://cdn.simpleicons.org/redis/DC382D" height="25" alt="redis logo"  />
+    <img src="https://cdn.simpleicons.org/selenium/43B02A" height="25" alt="selenium logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
+    <img src="https://skillicons.dev/icons?i=heroku" height="25" alt="heroku logo"  />
+    <img src="https://cdn.simpleicons.org/nginx/009639" height="25" alt="nginx logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="25" alt="apache logo"  />
+    <img src="https://cdn.simpleicons.org/ruby/CC342D" height="25" alt="ruby logo"  />
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="25" alt="stackoverflow logo"  />
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="25" alt="kaggle logo"  />
+    <img src="https://cdn.simpleicons.org/anaconda/44A833" height="25" alt="anaconda logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="tensorflow logo"  />
+    <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
+    <img src="https://skillicons.dev/icons?i=gcp" height="25" alt="googlecloud logo"  />
+    <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
+    <img src="https://skillicons.dev/icons?i=rust" height="25" alt="rust logo"  />
+  </div>
 </details>
 
-<h2> Some Trophies and Stats </h2>
+<h2> 🏆 Some Trophies and Stats 🥇 </h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=2&column=5"/><a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></a></p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
 </p>
 <br>
 
