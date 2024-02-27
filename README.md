@@ -61,8 +61,7 @@
 </details>
 
 <h2> Some Trophies and Stats </h2>
-<p><img align="" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=2&column=5"/><img align="" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></p>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
