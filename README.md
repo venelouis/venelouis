@@ -2,7 +2,7 @@
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvenelouis&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis)
 
-![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
+<a href="https://referral.hackthebox.com/mz7Kryv"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 --- 
 
@@ -66,6 +66,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
+</a>
 </p>
 <br>
 
