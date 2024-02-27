@@ -1,4 +1,5 @@
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+<h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1> 
+
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvenelouis&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis)
 
 ![Hello](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif) 
@@ -59,8 +60,9 @@
 </div>
 </details>
 
-## My GitHub Trophies and Stats
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></a></p>
+<h2> Some Trophies and Stats </h2>
+<p><img align="" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh"/></p>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
