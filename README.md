@@ -118,7 +118,7 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups" (al
     <li>ASCII Art from <a href="https://ascii.co.uk/art/internet">ascii.co.uk/art</li>
   </ul>
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
-</details> teste
+</details>
 <!-- Veja também: 
 - https://profile-readme-generator.com/ 
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
