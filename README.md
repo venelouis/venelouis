@@ -59,14 +59,11 @@
 </details>
 
 <h2> 🏆 Some Trophies and Stats </h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=2&column=5"/><a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></a></p>
-
-<p align="center">
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=2&column=5"/><a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></a>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
-</a>
 </p>
 <br>
 
