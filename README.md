@@ -85,7 +85,8 @@
 <br>
   
 ```
-The "Internet" consists of many computers, all over the world, connected to each other:
+The "Internet" consists of many computers, all over the world,
+connected to each other:
 
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
@@ -98,8 +99,10 @@ The "Internet" consists of many computers, all over the world, connected to each
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
 
-These computers can then be used to communicate with each other in many different ways.
-Three of the most common ones are "The Web", "Email" and "Discussion groups" (also called "Newsgroups").
+These computers can then be used to communicate with each other
+in many different ways.
+Three of the most common ones are "The Web", "Email" and
+"Discussion groups" (also called "Newsgroups").
 ```
 </details>
 <br>
