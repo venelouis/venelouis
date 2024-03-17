@@ -99,10 +99,9 @@ connected to each other:
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
 
-These computers can then be used to communicate with each other
-in many different ways.
-Three of the most common ones are "The Web", "Email" and
-"Discussion groups" (also called "Newsgroups").
+These computers can then be used to communicate with each other in many different ways.
+Three of the most common ones are "The Web", "Email" and "Discussion groups"
+(also called "Newsgroups").
 ```
 </details>
 <br>
