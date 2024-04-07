@@ -60,7 +60,7 @@
 
 <h2> 🏆 Some Trophies and Stats </h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=2&column=5"/><br><br>
-  <a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="center" width="30%" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="center" width="400px" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></a>
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
