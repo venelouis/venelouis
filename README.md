@@ -8,7 +8,6 @@
 
 <details open> 
   <summary><h3> 📚 A little of what I know (and studying to know) 📝... </h3></summary>
-  <p align="right">"Tools are just tools, what's most important is to know the principles."</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
@@ -57,6 +56,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
     <img src="https://skillicons.dev/icons?i=rust" height="25" alt="rust logo"  />
   </div>
+    </br><p align="right">"Tools are just tools, what's most important is to know the principles."</p>
 </details>
 
 <h2> 🏆 Some Trophies and Stats </h2>
