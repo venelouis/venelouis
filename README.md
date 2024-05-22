@@ -1,8 +1,8 @@
-<h1>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1> 
+<h1>Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1> 
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fvenelouis&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis)
 
-<a href="https://referral.hackthebox.com/mz7Kryv"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
+<a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
 ### Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="120" ></a>
 --- 
 
@@ -60,27 +60,27 @@
 </details>
 
 <h2> 🏆 Some Trophies and Stats </h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=3&column=5"/><br><br>
+<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=venelouis&theme=juicyfresh&row=3&column=5"/></a><br><br>
   <a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="center" width="300px" src="https://tryhackme-badges.s3.amazonaws.com/venelouis.png" alt="TryHackMe"></a>
 </p>
-<p align="center">
+<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venelouis&theme=transparent"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venelouis&theme=transparent&utcOffset=-3" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venelouis&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venelouis&theme=transparent" /> </a>
 </p>
 <br>
 
 <details align="left">
   <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
-  <p align="center"><img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></p>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></a></p>
 </details>
 
 <details align="left">
   <summary> 📊 More Statistics (click here)</summary> <br>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=20&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> </p>
-  <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelouis&theme=chartreuse_dark"/></p>
-  <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=20&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /> </a></p>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelouis&theme=chartreuse_dark"/></a></p>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/></a></p>
   <p align="right">*did you notice they are a little bit different?! Lol </p>
 </details>
 <details open>
