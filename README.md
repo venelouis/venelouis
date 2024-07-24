@@ -12,9 +12,10 @@
 
 <a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"></a>
 <h3> Connect with me:  <a href="https://www.linkedin.com/in/venelouis/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/Chinese-LI-Logo.svg.original.svg" alt="Venelouis LinkedIn Profile" width="150" ></a></h3>
+
 <p align="right">
 <a href="https://github.com/venelouis?tab=followers">
-<img src="https://img.shields.io/github/followers/venelouis?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/></a></p>p>
+<img src="https://img.shields.io/github/followers/venelouis?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/></a></p>
 
 --- 
 
