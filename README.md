@@ -113,7 +113,12 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
 (also called "Newsgroups").
 ```
 </details>
-<br>
+<details>
+  <summary> 🔥 Holopin Badges 🦖 </summary>
+  
+  [![An image of @venelouis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venelouis)](https://holopin.io/@venelouis)
+</details>
+
 <details open>
   <summary> 📜 References for this README.md</summary><br>
   <ul>
