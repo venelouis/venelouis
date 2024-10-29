@@ -118,19 +118,27 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
   
   [![An image of @venelouis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venelouis)](https://holopin.io/@venelouis)
 </details>
-
+<details><summary> Codédex 🦖 </summary>
+  
+ #30NitesOfCode:
+ 
+  <li><a href="https://www.codedex.io/@venelouis/30-nites-of-code" target="_blank">Check out my progress!</a></li>
+  
+  ![@venelouis #30NitesOfCode](https://www.codedex.io/api/petStatus?user=venelouis)
+  
+</details>
 <details open>
   <summary> 📜 References for this README.md</summary><br>
   <ul>
-    <li>Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis">visitorbadge.io</a></li>
-    <li>Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">giphy.com</a></li>
-    <li>GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a></li>
-    <li>Contribution Graph by <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Ashutosh00710</a></li>
-    <li>GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma</a></li>
-    <li>Shields and icons I got from <a href="https://profile-readme-generator.com">maurodesouza readme-generator</a></li>
-    <li>GitHub Stats and Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a></li>
-    <li>GitHub Summary Cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">vn7n24fzkq</a></li>
-    <li>ASCII Art from <a href="https://ascii.co.uk/art/internet">ascii.co.uk/art</li>
+    <li>Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis" target="_blank">visitorbadge.io</a></li>
+    <li>Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" target="_blank">giphy.com</a></li>
+    <li>GitHub Streaks by <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">DenverCoder1</a></li>
+    <li>Contribution Graph by <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">Ashutosh00710</a></li>
+    <li>GitHub Trophies by <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">ryo-ma</a></li>
+    <li>Shields and icons I got from <a href="https://profile-readme-generator.com" target="_blank">maurodesouza readme-generator</a></li>
+    <li>GitHub Stats and Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">anuraghazra</a></li>
+    <li>GitHub Summary Cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">vn7n24fzkq</a></li>
+    <li>ASCII Art from <a href="https://ascii.co.uk/art/internet" target="_blank">ascii.co.uk/art</li>
   </ul>
   <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
 </details>
