@@ -122,7 +122,7 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
 
   ![@venelouis #30NitesOfCode](https://www.codedex.io/api/petStatus?user=venelouis)
  
-  <li><a href="https://www.codedex.io/@venelouis/30-nites-of-code" target="_blank">Check out my progress!</a></li>  #30NitesOfCode
+  <li> #30NitesOfCode <a href="https://www.codedex.io/@venelouis/30-nites-of-code" target="_blank">Check out my progress!</a></li> 
   
 
   
