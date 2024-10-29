@@ -130,7 +130,7 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
   
 </details>
 <details open>
-  <summary> 📜 References for this README.md</summary><br>
+  <summary> 📜 Some interesting references for this README.md</summary><br>
   <ul>
     <li>Visitors Badge by <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fvenelouis" target="_blank">visitorbadge.io</a></li>
     <li>Matrix image GIF by <a href="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" target="_blank">giphy.com</a></li>
