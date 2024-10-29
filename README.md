@@ -77,6 +77,8 @@
 </p>
 <br>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=venelouis)](https://github.com/venelouis/github-readme-stats)
+
 <details align="left">
   <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></a></p>
