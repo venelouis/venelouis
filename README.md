@@ -118,13 +118,15 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
   
   [![An image of @venelouis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venelouis)](https://holopin.io/@venelouis)
 </details>
-<details><summary> Codédex 🦖 </summary>
+<details><summary> ⚔️ Codédex 🗡️ </summary>
   
  #30NitesOfCode:
+
+  ![@venelouis #30NitesOfCode](https://www.codedex.io/api/petStatus?user=venelouis)
  
   <li><a href="https://www.codedex.io/@venelouis/30-nites-of-code" target="_blank">Check out my progress!</a></li>
   
-  ![@venelouis #30NitesOfCode](https://www.codedex.io/api/petStatus?user=venelouis)
+
   
 </details>
 <details open>
