@@ -77,17 +77,16 @@
 </p>
 <br>
 <details align="left">
-  <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
-  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></a></p>
-</details>
-
-<details align="left">
   <summary> 📊 More Statistics (click here)</summary> <br>
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=venelouis&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/ ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelouis&layout=compact&langs_count=20&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
-  <p align="center"> <a href="https://github.com/venelouis"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=venelouis&layout=compact&theme=radical&custom_title=Time%20Stats" alt="Time Stats"/></a></p>
+  <p align="center"> <a href="https://github.com/venelouis"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=venelouis&layout=compact&theme=radical&custom_title=Time%20Stats" alt="Time Stats"/></a></p>
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelouis&theme=chartreuse_dark"/></a></p>
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/></a></p>
   <p align="right">*did you notice they are a little bit different?! Lol </p>
+</details>
+<details align="left">
+  <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://streak-stats.demolab.com?user=venelouis&theme=burnt-neon"/></a></p>
 </details>
 <details open>
 <summary> 🎨 Some ASCII Art 🖌️:  </summary>
