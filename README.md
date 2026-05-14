@@ -155,7 +155,15 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
   </ul>
 </details>
 
-<p align="center">  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake-dark.svg"></p>
-<p align="center"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph-dark.svg"></p>
+<p align="center">  
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake-dark.svg">
+<img alt="snake contribution graph" src="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake.svg">
+</picture></p>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph-dark.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph.svg">
+</picture></p>
 
 <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
