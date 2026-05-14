@@ -153,12 +153,12 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
     <li>GitHub Summary Cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">vn7n24fzkq</a></li>
     <li>ASCII Art from <a href="https://ascii.co.uk/art/internet" target="_blank">ascii.co.uk/art</li>
   </ul>
-  <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
 </details>
-<!-- Veja também: 
+ 
+Veja também: 
 - https://profile-readme-generator.com/ 
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 - Snake by <a href="https://github.com/Platane/snk">Platane</a>
-<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 <p align="center"><img src="https://github.com/venelouis/venelouis/blob/main/snake.svg"/></p>
--->
+
+<div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
