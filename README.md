@@ -154,11 +154,8 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
     <li>ASCII Art from <a href="https://ascii.co.uk/art/internet" target="_blank">ascii.co.uk/art</li>
   </ul>
 </details>
- 
-Veja também: 
-- https://profile-readme-generator.com/ 
-- https://rahuldkjain.github.io/gh-profile-readme-generator/
-- Snake by <a href="https://github.com/Platane/snk">Platane</a>
-<p align="center"><img src="https://github.com/venelouis/venelouis/blob/main/snake.svg"/></p>
+
+<p align="center">  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake-dark.svg"></p>
+<p align="center"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph-dark.svg"></p>
 
 <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
