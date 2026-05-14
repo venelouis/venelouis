@@ -164,7 +164,7 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
 </picture></p>
 </details>
 
-<details closed> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
+<details open> <summary> 👻 🟡 👾 Pacman Contrib Graph 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blank">Official REPO</summary></br>
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph-dark.svg">
