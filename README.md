@@ -155,15 +155,62 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
   </ul>
 </details>
 
+<details closed>
+<summary> 🐍 Snake</summary>
 <p align="center">  
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake-dark.svg">
 <img alt="snake contribution graph" src="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake.svg">
 </picture></p>
+</details>
+
+<details open> <summary> 👾 🟡 👻 Pacman</summary>
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph-dark.svg">
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph.svg">
 </picture></p>
+</details>
+
+<!-- # Instruções: Animações de Contribuição para Perfil do GitHub (Pac-Man & Snake)
+
+Para adicionar a animação do Pac-Man ou da Cobrinha (Snake) comendo os quadradinhos do seu gráfico de contribuições ao seu perfil do GitHub, você precisará configurar o GitHub Actions.
+
+Já deixei os arquivos configurados na pasta `.github/workflows`:
+- `pacman.yml` (Para gerar o Pac-Man)
+- `snake.yml` (Para gerar a Cobrinha)
+
+## Passos para ativar no seu perfil
+
+1. Crie um repositório no seu GitHub com o **mesmo nome do seu usuário** (ex: `venelouis/venelouis`). Este será o seu repositório de perfil.
+2. Copie os arquivos deste projeto (ou seja, a pasta `.github` e este arquivo `README.md`) para esse seu novo repositório.
+3. Faça o commit e o push dos arquivos para a branch `main`.
+4. Vá até a aba **Actions** no seu repositório recém-criado no GitHub.
+5. Selecione **"generate pacman game"** ou **"Generate Snake"** no menu à esquerda e clique em **"Run workflow"** para rodar a primeira vez e gerar as imagens. (Depois eles rodarão automaticamente todos os dias).
+6. Copie e cole o código abaixo no seu `README.md` do seu repositório de perfil, substituindo `[SEU-USUARIO]` pelo seu nome de usuário no GitHub (ex: `venelouis`).
+
+### Para usar o Pac-Man:
+
+```markdown
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/pacman-contribution-graph.svg">
+</picture>
+```
+
+### Para usar a Cobrinha (Snake):
+
+```markdown
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/github-snake-dark.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/github-snake.svg">
+</picture>
+```
+
+Pronto! Agora o seu gráfico animado aparecerá no seu perfil.
+-->
+
 
 <div align="right">Made with 💚 by <a href="https://github.com/venelouis">@venelouis</a>.</div>
