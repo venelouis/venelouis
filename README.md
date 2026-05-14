@@ -156,7 +156,7 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
 </details>
 
 <details closed>
-<summary> 🐍 Snake 🐍</summary></br>
+<summary> 🐍 Snake 🐍 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blamk">Official REPO</summary></br>
 <p align="center">  
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/github-snake-dark.svg">
@@ -164,7 +164,7 @@ Three of the most common ones are "The Web", "Email" and "Discussion groups"
 </picture></p>
 </details>
 
-<details open> <summary> Pacman 👾 🟡 👻</summary></br>
+<details open> <summary> Pacman 👾 🟡 👻 <a href="https://github.com/actions-marketplace-validations/abozanona_pacman-contribution-graph" target="_blamk">Official REPO</summary></br>
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venelouis/venelouis/output/pacman-contribution-graph-dark.svg">
