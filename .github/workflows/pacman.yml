@@ -38,6 +38,13 @@ jobs:
             exit 1
           fi
 
+      - name: Upload generated dist as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pacman-dist
+          path: dist
+
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
