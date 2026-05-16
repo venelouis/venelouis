@@ -16,10 +16,27 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+
+      - name: Show generated files
+        run: |
+          echo "Listing dist contents"
+          ls -la dist || true
+
+      - name: Verify generated SVG exists
+        run: |
+          if [ ! -f dist/pacman-contribution-graph.svg ]; then
+            echo "dist/pacman-contribution-graph.svg not found" >&2
+            ls -la dist || true
+            exit 1
+          fi
 
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
