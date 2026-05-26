@@ -80,15 +80,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="25" alt="jest logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="25" alt="raspberrypi logo" />
-    <img src="https://github.com/venelouis/Rullst/blob/main/Rullst.png" alt="Rullst Logo" height="60">
+    <img src="https://github.com/venelouis/Rullst/blob/main/Rullst.png" alt="Rullst Logo" height="50">
   </div>
     </br><p align="right">"Tools are just tools, what's most important is to know the principles."</p>
 </details>
 
 ---
 
-<h3>Creator of <a href="https://github.com/venelouis/Rullst">Rullst</a> (which is trying to be the best web Fullstack Framework for Rust lang)! 
-<a href="https://github.com/venelouis/Rullst"><img src="https://github.com/venelouis/Rullst/blob/main/Rullst.png" alt="Rullst Logo" width="250"></a>
+<h3>Creator of <a href="https://github.com/venelouis/Rullst">Rullst</a> (which is trying to be the best web Fullstack Framework for Rust lang)!<br> 
+<a href="https://github.com/venelouis/Rullst"><img src="https://github.com/venelouis/Rullst/blob/main/Rullst.png" alt="Rullst Logo" width="150"></a>
 </h3>
 
 ---
