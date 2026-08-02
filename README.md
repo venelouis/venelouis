@@ -87,7 +87,7 @@
 
 ---
 
-<h3>Creator of <a href="https://github.com/venelouis/Rullst">Rullst</a> (which is trying to be the best web Fullstack Framework for Rust lang)!<br> 
+<h3>Creator of <a href="https://github.com/venelouis/Rullst">Rullst</a> (which is trying to be the best web Fullstack Framework of all made in Rust language)!<br> 
 <a href="https://github.com/venelouis/Rullst"><img src="https://github.com/venelouis/Rullst/blob/main/Rullst.png" alt="Rullst Logo" width="150"></a>
 </h3>
 
